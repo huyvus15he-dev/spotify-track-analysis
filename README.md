@@ -46,6 +46,20 @@ This course project investigates the factors influencing Spotify track popularit
 - Genre-level differences may provide useful context for understanding audience preferences.
 - The analysis demonstrates how statistical testing and regression can support data-driven decision-making.
 
+## Visualizations
+
+### Correlation Heatmap
+
+![Correlation Heatmap](correlation-heatmap.png)
+
+### Explicit vs Non-Explicit Tracks
+
+![Explicit vs Non-Explicit Popularity](explicit-vs-nonexplicit-popularity.png)
+
+### Top 10 Genres by Average Popularity
+
+![Top 10 Genres by Average Popularity](top-10-genres-popularity.png)
+
 ## Project Structure
 
 ```text
